@@ -7,7 +7,7 @@
 3. The first time you run Arduino you will need to do this:
 	1.	Go to Preferences. 
 	
-    	![](https://digistump.com/wiki/_media/digispark/tutorials/preferences.gif)
+    	![](images/preferences.gif)
     
     2.	Under "Additional Board Manager URLs" enter:
 	
@@ -15,11 +15,14 @@
 
 	    and click OK. 
 	    
-    	![](https://digistump.com/wiki/_media/digispark/tutorials/entry.jpg)
+    	![](images/entry.jpg)
 
 	3.	Go to **Tools** > **Board** > **Boards Manager...**
 	4.	In the search field type **Digispark**. 
 	5. Click the **Install** button in the first result. 
+
+		**WINDOWS USERS:** When complete the install with pop up a Driver Install Wizard window, please click “Next” on this Window to install the drivers for Digistump Boards (If you already have them installed, this installer will update them and install any that are missing)
+		
 	6. Click **Close**. 
 	7.	Now choose **Tools** > **Board** > **Digispark (Default - 16.5mhz)**, the first choice under the _Digistump AVR Boards_ section. 
 
