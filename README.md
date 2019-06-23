@@ -21,7 +21,7 @@
 	4.	In the search field type **Digispark**. 
 	5. Click the **Install** button in the first result. 
 
-		**WINDOWS USERS:** When complete the install with pop up a Driver Install Wizard window, please click “Next” on this Window to install the drivers for Digistump Boards (If you already have them installed, this installer will update them and install any that are missing)
+		**WINDOWS USERS:** When complete, the install will pop up a Driver Install Wizard window, please click “Next” on this Window to install the drivers for Digistump Boards. If you do not get a pop up, or if you see USB Device Not Recognized errors, you must download the drivers from [this link](https://github.com/digistump/DigistumpArduino/releases/download/1.6.7/Digistump.Drivers.zip), Unzip it, and then run `Install Drivers.exe`. 
 		
 	6. Click **Close**. 
 	7.	Now choose **Tools** > **Board** > **Digispark (Default - 16.5mhz)**, the first choice under the _Digistump AVR Boards_ section. 
